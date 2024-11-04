@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sojibul Alam Bhuiya</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sojibul Alam Bhuiya</h1>
+        <p>Web Developer | Tech Enthusiast</p>
+        <div class="social-links">
+            <a href="https://www.facebook.com/sojibulalambhuiya" target="_blank">Facebook</a>
+            <a href="https://www.instagram.com/sojibulalambhuiya" target="_blank">Instagram</a>
+            <a href="https://github.com/sojibulalambhuiya" target="_blank">GitHub</a>
+        </div>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>I'm Sojibul Alam Bhuiya, a passionate web developer with expertise in front-end technologies. I love exploring new tech and creating visually appealing and functional websites.</p>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <p>Check out my latest projects on <a href="https://github.com/sojibulalambhuiya" target="_blank">GitHub</a>.</p>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:bhuiyasojibulalam@gmail.com">bhuiyasojibulalam@gmail.com</a></p>
+        <p>Phone: <a href="tel:+8801572971964">+8801572971964</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sojibul Alam Bhuiya. All rights reserved.</p>
+    </footer>
+</body>
+</html>
